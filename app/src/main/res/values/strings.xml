@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">AlarmApp</string>
+    <string name="set_message">Alarm is set to\u0020</string>
+    <string name="nset_message">Currently the alarm is not set</string>
+
+    <string-array name="questions">
+        <item>Good, better, best. Never let it rest, until your good is better and your better is best.</item>
+        <item>In order to succeed, we must first believe that we can.</item>
+        <item>With the new day comes new strength and new thoughts.</item>
+        <item>You cannot cross the sea merely by standing and staring at the water.</item>
+        <item>Life is really simple, but we insist on making it complicated.</item>
+        <item>There is only one happiness in this life, to love and be loved.</item>
+        <item>Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work.
+            And the only way to do great work is to love what you do. If you haven\'t found it yet, keep looking. Don\'t settle. As with all matters of the heart, you\'ll know when you find it.</item>
+        <item>Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.</item>
+        <item>The most important thing is to enjoy your life. To be happy. it\'s all that matters.</item>
+        <item>Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.</item>
+        <item>Success is not final, failure is not fatal. it is the courage to continue that counts.</item>
+        <item>Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do.</item>
+        <item>However difficult life may seem, there is always something you can do and succeed at.</item>
+        <item>Success is the result of perfection, hard work, learning from failure, loyalty, and persistence.</item>
+        <item>Try not to become a man of success, but rather try to become a man of value.</item>
+        <item>Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.</item>
+        <item>If everyone is moving forward together, then success takes care of itself.</item>
+        <item>Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved.</item>
+        <item>Success is a lousy teacher. It seduces smart people into thinking they can\'t lose.</item>
+        <item>The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.</item>
+        <item>An investment in knowledge pays the best interest.</item>
+        <item>Education is the most powerful weapon which you can use to change the world.</item>
+        <item>The function of education is to teach one to think intensively and to think critically. Intelligence plus character - that is the goal of true education.</item>
+        <item>Education is what remains after one has forgotten what one has learned in school.</item>
+        <item>To enjoy good health, to bring true happiness to one\'s family, to bring peace to all, one must first discipline and control one\'s own mind.
+            If a man can control his mind he can find the way to Enlightenment, and all wisdom and virtue will naturally come to him.</item>
+        <item>Red is such an interesting color to correlate with emotion, because it\'s on both ends of the spectrum. On one end you have happiness, falling in love,
+            infatuation with someone, passion, all that. On the other end, you\'ve got obsession, jealousy, danger, fear, anger and frustration.</item>
+        <item>Change will not come if we wait for some other person or some other time. We are the ones we\'ve been waiting for. We are the change that we seek.</item>
+        <item>Change is the law of life. And those who look only to the past or present are certain to miss the future.</item>
+        <item>You must be the change you wish to see in the world.</item>
+        <item>For the past 33 years, I have looked in the mirror every morning and asked myself. If today were the last day of my life, would I want to do what I am about to do today?
+            And whenever the answer has been \'No\' for too many days in a row, I know I need to change something.</item>
+        <item>You can\'t blame gravity for falling in love.</item>
+        <item>Spread love everywhere you go. Let no one ever come to you without leaving happier.</item>
+        <item>The best thing to hold onto in life is each other.</item>
+        <item>I am good, but not an angel. I do sin, but I am not the devil. I am just a small girl in a big world trying to find someone to love.</item>
+        <item>The biggest adventure you can take is to live the life of your dreams.</item>
+        <item>Reality is wrong. Dreams are for real.</item>
+        <item>I\'m a dreamer. I have to dream and reach for the stars, and if I miss a star then I grab a handful of clouds.</item>
+        <item>Dream as if you\'ll live forever. Live as if you\'ll die today.</item>
+        <item>I dream of painting and then I paint my dream.</item>
+        <item>Why does the eye see a thing more clearly in dreams than the imagination when awake?</item>
+        <item>Consult not your fears but your hopes and your dreams. Think not about your frustrations, but about your unfulfilled potential.
+             Concern yourself not with what you tried and failed in, but with what it is still possible for you to do.</item>
+        <item>Believe in love. Believe in magic. Hell, believe in Santa Clause. Believe in others. Believe in yourself. Believe in your dreams. If you don\'t, who will?</item>
+         <item>Your time is limited, so don\'t waste it living someone else\'s life. Don\'t be trapped by dogma, which is living with the results of other people\'s thinking.
+             Don\'t let the noise of others opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition.</item>
+        <item>The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.</item>
+        <item>The future rewards those who press on. I don\'t have time to feel sorry for myself. I don\'t have time to complain. I\'m going to press on.</item>
+        <item>Someone is sitting in the shade today because someone planted a tree a long time ago.</item>
+        <item>Only two things are infinite, the universe and human stupidity, and I\'m not sure about the former.</item>
+        <item>Science may have found a cure for most evils; but it has found no remedy for the worst of them all. The apathy of human beings.</item>
+        <item>The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.</item>
+    </string-array>
+</resources>
